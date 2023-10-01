@@ -7,3 +7,4 @@ Ejercicios de "Redes y Comunicación"
 * [**Práctica 3**](https://github.com/agusrnfr/RyC/blob/main/Practica/Practica%203/Pr%C3%A1ctica%203.pdf)
 * [**Práctica 4**](https://github.com/agusrnfr/RyC/blob/main/Practica/Practica%204/Pr%C3%A1ctica%204.pdf)
 * [**Práctica 5**](https://github.com/agusrnfr/RyC/blob/main/Practica/Practica%205/Pr%C3%A1ctica%205.pdf)
+* [**Práctica 6**](https://github.com/agusrnfr/RyC/blob/main/Practica/Practica%206/Pr%C3%A1ctica%206.pdf)
